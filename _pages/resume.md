@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Here is my resume!
 <!--
 Education
 ======
