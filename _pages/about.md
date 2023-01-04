@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Reetahan"
+title: "About"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Hello! My name is Reetahan Mukhopadhyay. I am currently in my final semester of my master's degree in computer science at Columbia University.
+This is my website! It is currently under construction.
 
 <!---
 
