@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Reetahan Mukhopadhyay"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://reetahan.github.io/assets/js/main.min.js
+name                     : &name "Reetahan Mukhopadhyay"
+description              : &description "Current M.S in Computer Science student at Columbia / Aspiring Researcher in Network, Causal, and Algorithmic Fairness"
+url                      : "https://reetahan.github.io/assets/js/main.min.js"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reetahan/reetahan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -99,7 +99,7 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "reetmu"
   vine             :
   weibo            :
   xing             :
