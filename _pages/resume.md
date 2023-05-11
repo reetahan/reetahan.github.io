@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my resume!
+[Here](http://reetahan.com/files/cur_resume.pdf) is my resume!
 
 <!--
 
