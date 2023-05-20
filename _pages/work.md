@@ -5,6 +5,18 @@ permalink: /work/
 author_profile: true
 ---
 
+## Virtualitics | Machine Learning Engineering Intern
+
+## Synchrony Financial | Emerging Technology Intern
+
+## Mavenir | Artificial Intelligence Intern
+
+## Cadence Design Systems | Software Engineering Intern
+
+## Town of Andover | GIS Intern
+
+## Altiostar | Engineering Intern
+
 <!--
 {% if site.talkmap_link == true %}
 

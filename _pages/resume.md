@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "Other Activities"
+permalink: /other_activities/
 author_profile: true
 redirect_from:
   - /cv
+  - /extracurriculars
+  - /volunteering
 ---
 
 {% include base_path %}

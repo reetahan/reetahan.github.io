@@ -6,11 +6,14 @@ main:
   - title: "Work Experience"
     url: /work/
 
-  - title: "Resume"
-    url: /resume/
-
   - title: "Projects"
     url: /projects/
+
+  - title: "Teaching"
+    url: /projects/
+
+  - title: "Other Activities"
+    url: /other_activities/
 
   - title: "Blog"
     url: /blog/
