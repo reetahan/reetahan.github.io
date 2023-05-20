@@ -12,7 +12,7 @@ author_profile: true
 ### With Yiguang Zhang, Supervised by Augustin Chaintreau
 
 ## Machine Learning Model Evaluation for Estimating Submicron Aerosol Mixing State at the Global Scale
-### Supervised by Nicole Riemer, with Zhonghua Zheng, Matthew West, Robert Healy, Laurent Poulain, Val´erie Gros
+### Supervised by Nicole Riemer, with Zhonghua Zheng, Matthew West, Robert Healy, Laurent Poulain, Valerie Gros
 
 ## Models With Missing Satellite Data 
 ### Supervised by Arlene Fiore, Dan Westervelt
