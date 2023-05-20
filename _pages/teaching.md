@@ -1,17 +1,21 @@
 ---
 layout: archive
-title: "Other Activities"
-permalink: /other_activities/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /cv
-  - /extracurriculars
-  - /volunteering
 ---
 
 {% include base_path %}
 
-[Here](http://reetahan.com/files/cur_resume.pdf) is my resume!
+## Lead Teaching Assistant - COMS6998-014 : Analysis of Network and Crowds
+### Columbia University 
+
+## Teaching Assistant, COMS4111 : Introduction to Databases
+### Columbia University
+
+## Course Assistant, CS411 : Database Systems
+### University of Illinois at Urbana Champaign
+
 
 <!--
 
