@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Reetahan Mukhopadhyay. I am currently in my final semester of my master's degree in computer science at Columbia University.
-This is my website! It is currently under construction.
+Hello! My name is Reetahan Mukhopadhyay. 
+This is my website! It is currently a work in progress, but feel free to poke around!
+
+Some of interests include explainable machine learning, algorithmic fairness, casuality, network theory, as
+well as how to tackle the climate crisis using machine learning.
+
+I also enjoy going on walks, biking, basketball (go Celtics!), karaoke, concerts, eating a lot of good food and exploring New York.
 
 [Here](http://reetahan.com/files/cur_resume.pdf) is my resume!
 
