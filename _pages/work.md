@@ -5,6 +5,10 @@ permalink: /work/
 author_profile: true
 ---
 
+## Trexquant Investment LP | Data Engineer
+
+## Virtualitics | Data Scientist
+
 ## Virtualitics | Machine Learning Engineering Intern
 
 ## Synchrony Financial | Emerging Technology Intern
